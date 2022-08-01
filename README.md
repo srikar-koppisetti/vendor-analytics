@@ -19,10 +19,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Builds the app for production to the `build` folder.
 
-## High Level Design
+## High Level System Design
 
 ![High Level Design](https://github.com/srikarslash/vendor-analytics/blob/main/HLD.png)
 
-## Frontend solution 
+## Frontend Solution 
 
 ![Frontend solution](https://github.com/srikarslash/vendor-analytics/blob/main/UI_Solution.png)
