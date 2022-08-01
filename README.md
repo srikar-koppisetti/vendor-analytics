@@ -21,4 +21,8 @@ Builds the app for production to the `build` folder.
 
 ## High Level Design
 
-![System Design](https://github.com/srikarslash/vendor-analytics/blob/main/HLD.png)
+![High Level Design](https://github.com/srikarslash/vendor-analytics/blob/main/HLD.png)
+
+## Frontend solution 
+
+![Frontend solution](https://github.com/srikarslash/vendor-analytics/blob/main/UI_Solution.png)
